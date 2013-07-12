@@ -15,7 +15,7 @@ class Git < Formula
   url 'http://git-core.googlecode.com/files/git-1.8.3.2.tar.gz'
   sha1 '4a6585dd81a542e7803e5f54a5c85b1c1a5869aa'
 
-  version '1.8.3.2'
+  version '1.8.3.2-boxen1'
 
   option 'with-blk-sha1', 'Compile with the block-optimized SHA1 implementation'
   option 'without-completions', 'Disable bash/zsh completions from "contrib" directory'
